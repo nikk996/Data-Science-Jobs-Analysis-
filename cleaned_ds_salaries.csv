@@ -1,0 +1,608 @@
+row_number,work_year,experience_level,employment_type,job_title,salary,salary_currency,Salary_in_USD,employee_residence,remote_ratio,company_location,company_size
+1,01-01-2020,Mid level,Full-time,Data Scientist,70000,EUR,"79,833",Germany,0,Germany,Large
+2,01-01-2020,Senior level,Full-time,Machine Learning Scientist,260000,USD,"2,60,000",Japan,0,Japan,Small
+3,01-01-2020,Senior level,Full-time,Big Data Engineer,85000,GBP,"1,09,024",United Kingdom,50,United Kingdom,Medium
+4,01-01-2020,Mid level,Full-time,Product Data Analyst,20000,USD,"20,000",Honduras,0,Honduras,Small
+5,01-01-2020,Senior level,Full-time,ML Engineer,150000,USD,"1,50,000",United States,50,United States,Large
+6,01-01-2020,Entry level,Full-time,Data Analyst,72000,USD,"72,000",United States,100,United States,Large
+7,01-01-2020,Senior level,Full-time,Lead Data Scientist,190000,USD,"1,90,000",United States,100,United States,Small
+8,01-01-2020,Mid level,Full-time,Data Scientist,11000000,HUF,"35,735",Hungary,50,Hungary,Large
+9,01-01-2020,Mid level,Full-time,Business Data Analyst,135000,USD,"1,35,000",United States,100,United States,Large
+10,01-01-2020,Senior level,Full-time,Lead Data Engineer,125000,USD,"1,25,000",New Zealand,50,New Zealand,Small
+11,01-01-2020,Entry level,Full-time,Data Scientist,45000,EUR,"51,321",France,0,France,Small
+12,01-01-2020,Mid level,Full-time,Data Scientist,3000000,INR,"40,481",India,0,India,Large
+13,01-01-2020,Entry level,Full-time,Data Scientist,35000,EUR,"39,916",France,0,France,Medium
+14,01-01-2020,Mid level,Full-time,Lead Data Analyst,87000,USD,"87,000",United States,100,United States,Large
+15,01-01-2020,Mid level,Full-time,Data Analyst,85000,USD,"85,000",United States,100,United States,Large
+16,01-01-2020,Mid level,Full-time,Data Analyst,8000,USD,"8,000",Pakistan,50,Pakistan,Large
+17,01-01-2020,Entry level,Full-time,Data Engineer,4450000,JPY,"41,689",Japan,100,Japan,Small
+18,01-01-2020,Senior level,Full-time,Big Data Engineer,100000,EUR,"1,14,047",Poland,100,United Kingdom,Small
+19,01-01-2020,Entry level,Full-time,Data Science Consultant,423000,INR,"5,707",India,50,India,Medium
+20,01-01-2020,Mid level,Full-time,Lead Data Engineer,56000,USD,"56,000",Portugal,100,United States,Medium
+21,01-01-2020,Mid level,Full-time,ML Engineer,299000,CNY,"43,331",China,0,China,Medium
+22,01-01-2020,Mid level,Full-time,Product Data Analyst,450000,INR,"6,072",India,100,India,Large
+23,01-01-2020,Senior level,Full-time,Data Engineer,42000,EUR,"47,899",Greece,50,Greece,Large
+24,01-01-2020,Mid level,Full-time,BI Data Analyst,98000,USD,"98,000",United States,0,United States,Medium
+25,01-01-2020,Mid level,Full-time,Lead Data Scientist,115000,USD,"1,15,000",UAE,0,UAE,Large
+26,01-01-2020,Executive level,Full-time,Director of Data Science,325000,USD,"3,25,000",United States,100,United States,Large
+27,01-01-2020,Entry level,Full-time,Research Scientist,42000,USD,"42,000",Netherlands,50,Netherlands,Large
+28,01-01-2020,Senior level,Full-time,Data Engineer,720000,MXN,"33,511",Mexico,0,Mexico,Small
+29,01-01-2020,Entry level,Contract,Business Data Analyst,100000,USD,"1,00,000",United States,100,United States,Large
+30,01-01-2020,Senior level,Full-time,Machine Learning Manager,157000,CAD,"1,17,104",Canada,50,Canada,Large
+31,01-01-2020,Mid level,Full-time,Data Engineering Manager,51999,EUR,"59,303",Germany,100,Germany,Small
+32,01-01-2020,Entry level,Full-time,Big Data Engineer,70000,USD,"70,000",United States,100,United States,Large
+33,01-01-2020,Senior level,Full-time,Data Scientist,60000,EUR,"68,428",Greece,100,United States,Large
+34,01-01-2020,Mid level,Full-time,Research Scientist,450000,USD,"4,50,000",United States,0,United States,Medium
+35,01-01-2020,Mid level,Full-time,Data Analyst,41000,EUR,"46,759",France,50,France,Large
+36,01-01-2020,Mid level,Full-time,Data Engineer,65000,EUR,"74,130",Austria,50,Austria,Large
+37,01-01-2020,Mid level,Full-time,Data Science Consultant,103000,USD,"1,03,000",United States,100,United States,Large
+38,01-01-2020,Entry level,Full-time,ML Engineer,250000,USD,"2,50,000",United States,50,United States,Large
+39,01-01-2020,Entry level,Full-time,Data Analyst,10000,USD,"10,000",Nigeria,100,Nigeria,Small
+40,01-01-2020,Entry level,Full-time,ML Engineer,138000,USD,"1,38,000",United States,100,United States,Small
+41,01-01-2020,Mid level,Full-time,Data Scientist,45760,USD,"45,760",Philippines,100,United States,Small
+42,01-01-2020,Executive level,Full-time,Data Engineering Manager,70000,EUR,"79,833",Spain,50,Spain,Large
+43,01-01-2020,Mid level,Full-time,Machine Learning Infrastructure Engineer,44000,EUR,"50,180",Portugal,0,Portugal,Medium
+44,01-01-2020,Mid level,Full-time,Data Engineer,106000,USD,"1,06,000",United States,100,United States,Large
+45,01-01-2020,Mid level,Full-time,Data Engineer,88000,GBP,"1,12,872",United Kingdom,50,United Kingdom,Large
+46,01-01-2020,Entry level,Part-time,ML Engineer,14000,EUR,"15,966",Germany,100,Germany,Small
+47,01-01-2020,Mid level,Full-time,Data Scientist,60000,GBP,"76,958",United Kingdom,100,United Kingdom,Small
+48,01-01-2020,Senior level,Full-time,Data Engineer,188000,USD,"1,88,000",United States,100,United States,Large
+49,01-01-2020,Mid level,Full-time,Data Scientist,105000,USD,"1,05,000",United States,100,United States,Large
+50,01-01-2020,Mid level,Full-time,Data Engineer,61500,EUR,"70,139",France,50,France,Large
+51,01-01-2020,Entry level,Full-time,Data Analyst,450000,INR,"6,072",India,0,India,Small
+52,01-01-2020,Entry level,Full-time,Data Analyst,91000,USD,"91,000",United States,100,United States,Large
+53,01-01-2020,Entry level,Full-time,AI Scientist,300000,DKK,"45,896",Denmark,50,Denmark,Small
+54,01-01-2020,Entry level,Full-time,Data Engineer,48000,EUR,"54,742",Pakistan,100,Germany,Large
+55,01-01-2020,Senior level,Freelance,Computer Vision Engineer,60000,USD,"60,000",Russia,100,United States,Small
+56,01-01-2020,Senior level,Full-time,Principal Data Scientist,130000,EUR,"1,48,261",Germany,100,Germany,Medium
+57,01-01-2020,Mid level,Full-time,Data Scientist,34000,EUR,"38,776",Spain,100,Spain,Medium
+58,01-01-2020,Mid level,Full-time,Data Scientist,118000,USD,"1,18,000",United States,100,United States,Medium
+59,01-01-2020,Senior level,Full-time,Data Scientist,120000,USD,"1,20,000",United States,50,United States,Large
+60,01-01-2020,Mid level,Full-time,Data Scientist,138350,USD,"1,38,350",United States,100,United States,Medium
+61,01-01-2020,Mid level,Full-time,Data Engineer,110000,USD,"1,10,000",United States,100,United States,Large
+62,01-01-2020,Mid level,Full-time,Data Engineer,130800,USD,"1,30,800",Spain,100,United States,Medium
+63,01-01-2020,Entry level,Part-time,Data Scientist,19000,EUR,"21,669",Italy,50,Italy,Small
+64,01-01-2020,Senior level,Full-time,Data Scientist,412000,USD,"4,12,000",United States,100,United States,Large
+65,01-01-2020,Senior level,Full-time,ML Engineer,40000,EUR,"45,618",Croatia,100,Croatia,Small
+66,01-01-2020,Entry level,Full-time,Data Scientist,55000,EUR,"62,726",Germany,50,Germany,Small
+67,01-01-2020,Entry level,Full-time,Data Scientist,43200,EUR,"49,268",Germany,0,Germany,Small
+68,01-01-2020,Senior level,Full-time,Data Science Manager,190200,USD,"1,90,200",United States,100,United States,Medium
+69,01-01-2020,Entry level,Full-time,Data Scientist,105000,USD,"1,05,000",United States,100,United States,Small
+70,01-01-2020,Senior level,Full-time,Data Scientist,80000,EUR,"91,237",Austria,0,Austria,Small
+71,01-01-2020,Mid level,Full-time,Data Scientist,55000,EUR,"62,726",France,50,Luxembourg,Small
+72,01-01-2020,Mid level,Full-time,Data Scientist,37000,EUR,"42,197",France,50,France,Small
+73,01-01-2021,Entry level,Full-time,Research Scientist,60000,GBP,"82,528",United Kingdom,50,United Kingdom,Large
+74,01-01-2021,Executive level,Full-time,BI Data Analyst,150000,USD,"1,50,000",India,100,United States,Large
+75,01-01-2021,Executive level,Full-time,Head of Data,235000,USD,"2,35,000",United States,100,United States,Large
+76,01-01-2021,Senior level,Full-time,Data Scientist,45000,EUR,"53,192",France,50,France,Large
+77,01-01-2021,Mid level,Full-time,BI Data Analyst,100000,USD,"1,00,000",United States,100,United States,Medium
+78,01-01-2021,Mid level,Part-time,3D Computer Vision Researcher,400000,INR,"5,409",India,50,India,Medium
+79,01-01-2021,Mid level,Contract,ML Engineer,270000,USD,"2,70,000",United States,100,United States,Large
+80,01-01-2021,Entry level,Full-time,Data Analyst,80000,USD,"80,000",United States,100,United States,Medium
+81,01-01-2021,Senior level,Full-time,Data Analytics Engineer,67000,EUR,"79,197",Germany,100,Germany,Large
+82,01-01-2021,Mid level,Full-time,Data Engineer,140000,USD,"1,40,000",United States,100,United States,Large
+83,01-01-2021,Mid level,Full-time,Applied Data Scientist,68000,CAD,"54,238",United Kingdom,50,Canada,Large
+84,01-01-2021,Mid level,Full-time,ML Engineer,40000,EUR,"47,282",Spain,100,Spain,Small
+85,01-01-2021,Executive level,Full-time,Director of Data Science,130000,EUR,"1,53,667",Italy,100,Poland,Large
+86,01-01-2021,Mid level,Full-time,Data Engineer,110000,PLN,"28,476",Poland,100,Poland,Large
+87,01-01-2021,Entry level,Full-time,Data Analyst,50000,EUR,"59,102",France,50,France,Medium
+88,01-01-2021,Mid level,Full-time,Data Analytics Engineer,110000,USD,"1,10,000",United States,100,United States,Large
+89,01-01-2021,Senior level,Full-time,Lead Data Analyst,170000,USD,"1,70,000",United States,100,United States,Large
+90,01-01-2021,Senior level,Full-time,Data Analyst,80000,USD,"80,000",Bulgaria,100,United States,Small
+91,01-01-2021,Senior level,Full-time,Marketing Data Analyst,75000,EUR,"88,654",Greece,100,Denmark,Large
+92,01-01-2021,Entry level,Full-time,Data Science Consultant,65000,EUR,"76,833",Germany,100,Germany,Small
+93,01-01-2021,Mid level,Full-time,Lead Data Analyst,1450000,INR,"19,609",India,100,India,Large
+94,01-01-2021,Senior level,Full-time,Lead Data Engineer,276000,USD,"2,76,000",United States,0,United States,Large
+95,01-01-2021,Entry level,Full-time,Data Scientist,2200000,INR,"29,751",India,50,India,Large
+96,01-01-2021,Mid level,Full-time,Cloud Data Engineer,120000,SGD,"89,294",Singapore,50,Singapore,Large
+97,01-01-2021,Entry level,Part-time,AI Scientist,12000,USD,"12,000",Brazil,100,United States,Small
+98,01-01-2021,Mid level,Full-time,Financial Data Analyst,450000,USD,"4,50,000",United States,100,United States,Large
+99,01-01-2021,Entry level,Full-time,Computer Vision Software Engineer,70000,USD,"70,000",United States,100,United States,Medium
+100,01-01-2021,Mid level,Full-time,Computer Vision Software Engineer,81000,EUR,"95,746",Germany,100,United States,Small
+101,01-01-2021,Mid level,Full-time,Data Analyst,75000,USD,"75,000",United States,0,United States,Large
+102,01-01-2021,Senior level,Full-time,Data Engineer,150000,USD,"1,50,000",United States,100,United States,Large
+103,01-01-2021,Mid level,Full-time,BI Data Analyst,11000000,HUF,"36,259",Hungary,50,United States,Large
+104,01-01-2021,Mid level,Full-time,Data Analyst,62000,USD,"62,000",United States,0,United States,Large
+105,01-01-2021,Mid level,Full-time,Data Scientist,73000,USD,"73,000",United States,0,United States,Large
+106,01-01-2021,Mid level,Full-time,Data Analyst,37456,GBP,"51,519",United Kingdom,50,United Kingdom,Large
+107,01-01-2021,Mid level,Full-time,Research Scientist,235000,CAD,"1,87,442",Canada,100,Canada,Large
+108,01-01-2021,Senior level,Full-time,Data Engineer,115000,USD,"1,15,000",United States,100,United States,Small
+109,01-01-2021,Senior level,Full-time,Data Engineer,150000,USD,"1,50,000",United States,100,United States,Medium
+110,01-01-2021,Entry level,Full-time,Data Engineer,2250000,INR,"30,428",India,100,India,Large
+111,01-01-2021,Senior level,Full-time,ML Engineer,80000,EUR,"94,564",Germany,50,Germany,Large
+112,01-01-2021,Senior level,Full-time,Director of Data Engineering,82500,GBP,"1,13,476",United Kingdom,100,United Kingdom,Medium
+113,01-01-2021,Senior level,Full-time,Lead Data Engineer,75000,GBP,"1,03,160",United Kingdom,100,United Kingdom,Small
+114,01-01-2021,Entry level,Part-time,AI Scientist,12000,USD,"12,000",Pakistan,100,United States,Medium
+115,01-01-2021,Mid level,Full-time,Data Engineer,38400,EUR,"45,391",Netherlands,100,Netherlands,Large
+116,01-01-2021,Entry level,Full-time,Machine Learning Scientist,225000,USD,"2,25,000",United States,100,United States,Large
+117,01-01-2021,Mid level,Full-time,Data Scientist,50000,USD,"50,000",Nigeria,100,Nigeria,Large
+118,01-01-2021,Mid level,Full-time,Data Science Engineer,34000,EUR,"40,189",Greece,100,Greece,Medium
+119,01-01-2021,Entry level,Full-time,Data Analyst,90000,USD,"90,000",United States,100,United States,Small
+120,01-01-2021,Mid level,Full-time,Data Engineer,200000,USD,"2,00,000",United States,100,United States,Large
+121,01-01-2021,Mid level,Full-time,Big Data Engineer,60000,USD,"60,000",Spain,50,Romania,Medium
+122,01-01-2021,Senior level,Full-time,Principal Data Engineer,200000,USD,"2,00,000",United States,100,United States,Medium
+123,01-01-2021,Entry level,Full-time,Data Analyst,50000,USD,"50,000",United States,100,United States,Medium
+124,01-01-2021,Entry level,Full-time,Applied Data Scientist,80000,GBP,"1,10,037",United Kingdom,0,United Kingdom,Large
+125,01-01-2021,Entry level,Part-time,Data Analyst,8760,EUR,"10,354",Spain,50,Spain,Medium
+126,01-01-2021,Mid level,Full-time,Principal Data Scientist,151000,USD,"1,51,000",United States,100,United States,Large
+127,01-01-2021,Senior level,Full-time,Machine Learning Scientist,120000,USD,"1,20,000",United States,50,United States,Small
+128,01-01-2021,Mid level,Full-time,Data Scientist,700000,INR,"9,466",India,0,India,Small
+129,01-01-2021,Entry level,Full-time,ML Engineer,20000,USD,"20,000",India,100,India,Small
+130,01-01-2021,Senior level,Full-time,Lead Data Scientist,3000000,INR,"40,570",India,50,India,Large
+131,01-01-2021,Entry level,Full-time,Machine Learning Developer,100000,USD,"1,00,000",Iraq,50,Iraq,Small
+132,01-01-2021,Entry level,Full-time,Data Scientist,42000,EUR,"49,646",France,50,France,Medium
+133,01-01-2021,Mid level,Full-time,Applied Machine Learning Scientist,38400,USD,"38,400",Vietnam,100,United States,Medium
+134,01-01-2021,Senior level,Full-time,Computer Vision Engineer,24000,USD,"24,000",Brazil,100,Brazil,Medium
+135,01-01-2021,Entry level,Full-time,Data Scientist,100000,USD,"1,00,000",United States,0,United States,Small
+136,01-01-2021,Mid level,Full-time,Data Analyst,90000,USD,"90,000",United States,100,United States,Medium
+137,01-01-2021,Mid level,Full-time,ML Engineer,7000000,JPY,"63,711",Japan,50,Japan,Small
+138,01-01-2021,Mid level,Full-time,ML Engineer,8500000,JPY,"77,364",Japan,50,Japan,Small
+139,01-01-2021,Senior level,Full-time,Principal Data Scientist,220000,USD,"2,20,000",United States,0,United States,Large
+140,01-01-2021,Entry level,Full-time,Data Scientist,80000,USD,"80,000",United States,100,United States,Medium
+141,01-01-2021,Mid level,Full-time,Data Analyst,135000,USD,"1,35,000",United States,100,United States,Large
+142,01-01-2021,Senior level,Full-time,Data Science Manager,240000,USD,"2,40,000",United States,0,United States,Large
+143,01-01-2021,Senior level,Full-time,Data Engineering Manager,150000,USD,"1,50,000",United States,0,United States,Large
+144,01-01-2021,Mid level,Full-time,Data Scientist,82500,USD,"82,500",United States,100,United States,Small
+145,01-01-2021,Mid level,Full-time,Data Engineer,100000,USD,"1,00,000",United States,100,United States,Large
+146,01-01-2021,Senior level,Full-time,ML Engineer,70000,EUR,"82,744",Belgium,50,Belgium,Medium
+147,01-01-2021,Mid level,Full-time,Research Scientist,53000,EUR,"62,649",France,50,France,Medium
+148,01-01-2021,Mid level,Full-time,Data Engineer,90000,USD,"90,000",United States,100,United States,Large
+149,01-01-2021,Senior level,Full-time,Data Engineering Manager,153000,USD,"1,53,000",United States,100,United States,Large
+150,01-01-2021,Senior level,Full-time,Cloud Data Engineer,160000,USD,"1,60,000",Brazil,100,United States,Small
+151,01-01-2021,Senior level,Full-time,Director of Data Science,168000,USD,"1,68,000",Japan,0,Japan,Small
+152,01-01-2021,Mid level,Full-time,Data Scientist,150000,USD,"1,50,000",United States,100,United States,Medium
+153,01-01-2021,Mid level,Full-time,Data Scientist,95000,CAD,"75,774",Canada,100,Canada,Large
+154,01-01-2021,Entry level,Full-time,Data Scientist,13400,USD,"13,400",Ukraine,100,Ukraine,Large
+155,01-01-2021,Senior level,Full-time,Data Science Manager,144000,USD,"1,44,000",United States,100,United States,Large
+156,01-01-2021,Senior level,Full-time,Data Science Engineer,159500,CAD,"1,27,221",Canada,50,Canada,Large
+157,01-01-2021,Mid level,Full-time,Data Scientist,160000,SGD,"1,19,059",Singapore,100,Israel,Medium
+158,01-01-2021,Mid level,Full-time,Applied Machine Learning Scientist,423000,USD,"4,23,000",United States,50,United States,Large
+159,01-01-2021,Senior level,Full-time,Data Analytics Manager,120000,USD,"1,20,000",United States,100,United States,Medium
+160,01-01-2021,Entry level,Full-time,ML Engineer,125000,USD,"1,25,000",United States,100,United States,Small
+161,01-01-2021,Executive level,Full-time,Head of Data,230000,USD,"2,30,000",Russia,50,Russia,Large
+162,01-01-2021,Executive level,Full-time,Head of Data Science,85000,USD,"85,000",Russia,0,Russia,Medium
+163,01-01-2021,Mid level,Full-time,Data Engineer,24000,EUR,"28,369",Malta,50,Malta,Large
+164,01-01-2021,Entry level,Full-time,Data Science Consultant,54000,EUR,"63,831",Germany,50,Germany,Large
+165,01-01-2021,Executive level,Full-time,Director of Data Science,110000,EUR,"1,30,026",Germany,50,Germany,Medium
+166,01-01-2021,Senior level,Full-time,Data Specialist,165000,USD,"1,65,000",United States,100,United States,Large
+167,01-01-2021,Entry level,Full-time,Data Engineer,80000,USD,"80,000",United States,100,United States,Large
+168,01-01-2021,Executive level,Full-time,Director of Data Science,250000,USD,"2,50,000",United States,0,United States,Large
+169,01-01-2021,Entry level,Full-time,BI Data Analyst,55000,USD,"55,000",United States,50,United States,Small
+170,01-01-2021,Mid level,Full-time,Data Architect,150000,USD,"1,50,000",United States,100,United States,Large
+171,01-01-2021,Mid level,Full-time,Data Architect,170000,USD,"1,70,000",United States,100,United States,Large
+172,01-01-2021,Mid level,Full-time,Data Engineer,60000,GBP,"82,528",United Kingdom,100,United Kingdom,Large
+173,01-01-2021,Entry level,Full-time,Data Analyst,60000,USD,"60,000",United States,100,United States,Small
+174,01-01-2021,Senior level,Full-time,Principal Data Scientist,235000,USD,"2,35,000",United States,100,United States,Large
+175,01-01-2021,Senior level,Full-time,Research Scientist,51400,EUR,"60,757",Portugal,50,Portugal,Large
+176,01-01-2021,Senior level,Full-time,Data Engineering Manager,174000,USD,"1,74,000",United States,100,United States,Large
+177,01-01-2021,Mid level,Full-time,Data Scientist,58000,MXN,"2,859",Mexico,0,Mexico,Small
+178,01-01-2021,Mid level,Full-time,Data Scientist,30400000,CLP,"40,038",Chile,100,Chile,Large
+179,01-01-2021,Entry level,Full-time,ML Engineer,81000,USD,"81,000",United States,50,United States,Small
+180,01-01-2021,Mid level,Full-time,Data Scientist,420000,INR,"5,679",India,100,United States,Small
+181,01-01-2021,Mid level,Full-time,Big Data Engineer,1672000,INR,"22,611",India,0,India,Large
+182,01-01-2021,Mid level,Full-time,Data Scientist,76760,EUR,"90,734",Germany,50,Germany,Large
+183,01-01-2021,Mid level,Full-time,Data Engineer,22000,EUR,"26,005",Romania,0,United States,Large
+184,01-01-2021,Senior level,Full-time,Finance Data Analyst,45000,GBP,"61,896",United Kingdom,50,United Kingdom,Large
+185,01-01-2021,Mid level,Freelance,Machine Learning Scientist,12000,USD,"12,000",Pakistan,50,Pakistan,Medium
+186,01-01-2021,Mid level,Full-time,Data Engineer,4000,USD,"4,000",Iran,100,Iran,Medium
+187,01-01-2021,Senior level,Full-time,Data Analytics Engineer,50000,USD,"50,000",Vietnam,100,United Kingdom,Medium
+188,01-01-2021,Executive level,Full-time,Data Science Consultant,59000,EUR,"69,741",France,100,Spain,Small
+189,01-01-2021,Senior level,Full-time,Data Engineer,65000,EUR,"76,833",Romania,50,United Kingdom,Small
+190,01-01-2021,Mid level,Full-time,ML Engineer,74000,USD,"74,000",Japan,50,Japan,Small
+191,01-01-2021,Senior level,Full-time,Data Science Manager,152000,USD,"1,52,000",United States,100,France,Large
+192,01-01-2021,Entry level,Full-time,ML Engineer,21844,USD,"21,844",Colombia,50,Colombia,Medium
+193,01-01-2021,Mid level,Full-time,Big Data Engineer,18000,USD,"18,000",Moldova,0,Moldova,Small
+194,01-01-2021,Senior level,Full-time,Data Science Manager,174000,USD,"1,74,000",United States,100,United States,Large
+195,01-01-2021,Senior level,Full-time,Research Scientist,120500,CAD,"96,113",Canada,50,Canada,Large
+196,01-01-2021,Mid level,Full-time,Data Scientist,147000,USD,"1,47,000",United States,50,United States,Large
+197,01-01-2021,Entry level,Full-time,BI Data Analyst,9272,USD,"9,272",Kenya,100,Kenya,Small
+198,01-01-2021,Senior level,Full-time,ML Engineer,1799997,INR,"24,342",India,100,India,Large
+199,01-01-2021,Senior level,Full-time,Data Science Manager,4000000,INR,"54,094",India,50,United States,Large
+200,01-01-2021,Entry level,Full-time,Data Science Consultant,90000,USD,"90,000",United States,100,United States,Small
+201,01-01-2021,Mid level,Full-time,Data Scientist,52000,EUR,"61,467",Germany,50,Austria,Medium
+202,01-01-2021,Senior level,Full-time,Machine Learning Infrastructure Engineer,195000,USD,"1,95,000",United States,100,United States,Medium
+203,01-01-2021,Mid level,Full-time,Data Scientist,32000,EUR,"37,825",Spain,100,Spain,Large
+204,01-01-2021,Senior level,Full-time,Research Scientist,50000,USD,"50,000",France,100,United States,Small
+205,01-01-2021,Mid level,Full-time,Data Scientist,160000,USD,"1,60,000",United States,100,United States,Large
+206,01-01-2021,Mid level,Full-time,Data Scientist,69600,BRL,"12,901",Brazil,0,Brazil,Small
+207,01-01-2021,Senior level,Full-time,ML Engineer,200000,USD,"2,00,000",United States,100,United States,Large
+208,01-01-2021,Senior level,Full-time,Data Engineer,165000,USD,"1,65,000",United States,0,United States,Medium
+209,01-01-2021,Mid level,Freelance,Data Engineer,20000,USD,"20,000",Italy,0,United States,Large
+210,01-01-2021,Senior level,Full-time,Data Analytics Manager,120000,USD,"1,20,000",United States,0,United States,Large
+211,01-01-2021,Mid level,Full-time,ML Engineer,21000,EUR,"24,823",Slovenia,50,Slovenia,Large
+212,01-01-2021,Mid level,Full-time,Research Scientist,48000,EUR,"56,738",France,50,France,Small
+213,01-01-2021,Mid level,Full-time,Data Engineer,48000,GBP,"66,022",Hong Kong,50,United Kingdom,Small
+214,01-01-2021,Entry level,Full-time,Big Data Engineer,435000,INR,"5,882",India,0,Switzerland,Large
+215,01-01-2021,Entry level,Full-time,ML Engineer,21000,EUR,"24,823",Germany,50,Germany,Medium
+216,01-01-2021,Senior level,Full-time,Principal Data Engineer,185000,USD,"1,85,000",United States,100,United States,Large
+217,01-01-2021,Entry level,Part-time,Computer Vision Engineer,180000,DKK,"28,609",Denmark,50,Denmark,Small
+218,01-01-2021,Mid level,Full-time,Data Scientist,76760,EUR,"90,734",Germany,50,Germany,Large
+219,01-01-2021,Mid level,Full-time,ML Engineer,75000,EUR,"88,654",Belgium,100,Belgium,Medium
+220,01-01-2021,Senior level,Full-time,Data Analytics Manager,140000,USD,"1,40,000",United States,100,United States,Large
+221,01-01-2021,Mid level,Full-time,ML Engineer,180000,PLN,"46,597",Poland,100,Poland,Large
+222,01-01-2021,Mid level,Full-time,Data Scientist,85000,GBP,"1,16,914",United Kingdom,50,United Kingdom,Large
+223,01-01-2021,Mid level,Full-time,Data Scientist,2500000,INR,"33,808",India,0,India,Medium
+224,01-01-2021,Mid level,Full-time,Data Scientist,40900,GBP,"56,256",United Kingdom,50,United Kingdom,Large
+225,01-01-2021,Senior level,Full-time,Machine Learning Scientist,225000,USD,"2,25,000",United States,100,Canada,Large
+226,01-01-2021,Executive level,Contract,Principal Data Scientist,416000,USD,"4,16,000",United States,100,United States,Small
+227,01-01-2021,Senior level,Full-time,Data Scientist,110000,CAD,"87,738",Canada,100,Canada,Small
+228,01-01-2021,Mid level,Full-time,Data Scientist,75000,EUR,"88,654",Germany,50,Germany,Large
+229,01-01-2021,Senior level,Full-time,Data Scientist,135000,USD,"1,35,000",United States,0,United States,Large
+230,01-01-2021,Senior level,Full-time,Data Analyst,90000,CAD,"71,786",Canada,100,Canada,Medium
+231,01-01-2021,Entry level,Full-time,Big Data Engineer,1200000,INR,"16,228",India,100,India,Large
+232,01-01-2021,Senior level,Full-time,ML Engineer,256000,USD,"2,56,000",United States,100,United States,Small
+233,01-01-2021,Senior level,Full-time,Director of Data Engineering,200000,USD,"2,00,000",United States,100,United States,Large
+234,01-01-2021,Senior level,Full-time,Data Analyst,200000,USD,"2,00,000",United States,100,United States,Large
+235,01-01-2021,Mid level,Full-time,Data Architect,180000,USD,"1,80,000",United States,100,United States,Large
+236,01-01-2021,Mid level,Full-time,Head of Data Science,110000,USD,"1,10,000",United States,0,United States,Small
+237,01-01-2021,Mid level,Full-time,Research Scientist,80000,CAD,"63,810",Canada,100,Canada,Medium
+238,01-01-2021,Mid level,Full-time,Data Scientist,39600,EUR,"46,809",Spain,100,Spain,Medium
+239,01-01-2021,Entry level,Full-time,Data Scientist,4000,USD,"4,000",Vietnam,0,Vietnam,Medium
+240,01-01-2021,Entry level,Full-time,Data Engineer,1600000,INR,"21,637",India,50,India,Medium
+241,01-01-2021,Senior level,Full-time,Data Scientist,130000,CAD,"1,03,691",Canada,100,Canada,Large
+242,01-01-2021,Mid level,Full-time,Data Analyst,80000,USD,"80,000",United States,100,United States,Large
+243,01-01-2021,Mid level,Full-time,Data Engineer,110000,USD,"1,10,000",United States,100,United States,Large
+244,01-01-2021,Senior level,Full-time,Data Scientist,165000,USD,"1,65,000",United States,100,United States,Large
+245,01-01-2021,Entry level,Full-time,AI Scientist,1335000,INR,"18,053",India,100,American Samoa,Small
+246,01-01-2021,Mid level,Full-time,Data Engineer,52500,GBP,"72,212",United Kingdom,50,United Kingdom,Large
+247,01-01-2021,Entry level,Full-time,Data Scientist,31000,EUR,"36,643",France,50,France,Large
+248,01-01-2021,Mid level,Full-time,Data Engineer,108000,TRY,"12,103",Turkey,0,Turkey,Medium
+249,01-01-2021,Senior level,Full-time,Data Engineer,70000,GBP,"96,282",United Kingdom,50,United Kingdom,Large
+250,01-01-2021,Senior level,Full-time,Principal Data Analyst,170000,USD,"1,70,000",United States,100,United States,Medium
+251,01-01-2021,Mid level,Full-time,Data Scientist,115000,USD,"1,15,000",United States,50,United States,Large
+252,01-01-2021,Entry level,Full-time,Data Scientist,90000,USD,"90,000",United States,100,United States,Small
+253,01-01-2021,Executive level,Full-time,Principal Data Engineer,600000,USD,"6,00,000",United States,100,United States,Large
+254,01-01-2021,Entry level,Full-time,Data Scientist,2100000,INR,"28,399",India,100,India,Medium
+255,01-01-2021,Mid level,Full-time,Data Analyst,93000,USD,"93,000",United States,100,United States,Large
+256,01-01-2021,Senior level,Full-time,Big Data Architect,125000,CAD,"99,703",Canada,50,Canada,Medium
+257,01-01-2021,Mid level,Full-time,Data Engineer,200000,USD,"2,00,000",United States,100,United States,Large
+258,01-01-2021,Senior level,Full-time,Principal Data Scientist,147000,EUR,"1,73,762",Germany,100,Germany,Medium
+259,01-01-2021,Senior level,Full-time,ML Engineer,185000,USD,"1,85,000",United States,50,United States,Large
+260,01-01-2021,Executive level,Full-time,Director of Data Science,120000,EUR,"1,41,846",Germany,0,Germany,Large
+261,01-01-2021,Mid level,Full-time,Data Scientist,130000,USD,"1,30,000",United States,50,United States,Large
+262,01-01-2021,Senior level,Full-time,Data Analyst,54000,EUR,"63,831",Germany,50,Germany,Large
+263,01-01-2021,Mid level,Full-time,Data Scientist,1250000,INR,"16,904",India,100,India,Small
+264,01-01-2021,Senior level,Full-time,ML Engineer,4900000,INR,"66,265",India,0,India,Large
+265,01-01-2021,Mid level,Full-time,Data Scientist,21600,EUR,"25,532",Serbia,100,Germany,Small
+266,01-01-2021,Senior level,Full-time,Lead Data Engineer,160000,USD,"1,60,000",Puerto Rico,50,United States,Small
+267,01-01-2021,Mid level,Full-time,Data Engineer,93150,USD,"93,150",United States,0,United States,Medium
+268,01-01-2021,Mid level,Full-time,Data Engineer,111775,USD,"1,11,775",United States,0,United States,Medium
+269,01-01-2021,Mid level,Full-time,Data Engineer,250000,TRY,"28,016",Turkey,100,Turkey,Medium
+270,01-01-2021,Entry level,Full-time,Data Engineer,55000,EUR,"65,013",Germany,50,Germany,Medium
+271,01-01-2021,Entry level,Full-time,Data Engineer,72500,USD,"72,500",United States,100,United States,Large
+272,01-01-2021,Senior level,Full-time,Computer Vision Engineer,102000,BRL,"18,907",Brazil,0,Brazil,Medium
+273,01-01-2021,Entry level,Full-time,Data Science Consultant,65000,EUR,"76,833",Germany,0,Germany,Large
+274,01-01-2021,Entry level,Full-time,ML Engineer,85000,USD,"85,000",Netherlands,100,Germany,Small
+275,01-01-2021,Senior level,Full-time,Data Scientist,65720,EUR,"77,684",France,50,France,Medium
+276,01-01-2021,Entry level,Full-time,Data Scientist,100000,USD,"1,00,000",United States,100,United States,Medium
+277,01-01-2021,Entry level,Full-time,Data Scientist,58000,USD,"58,000",United States,50,United States,Large
+278,01-01-2021,Senior level,Full-time,AI Scientist,55000,USD,"55,000",Spain,100,Spain,Large
+279,01-01-2021,Senior level,Full-time,Data Scientist,180000,TRY,"20,171",Turkey,50,Turkey,Large
+280,01-01-2021,Entry level,Full-time,Business Data Analyst,50000,EUR,"59,102",Luxembourg,100,Luxembourg,Large
+281,01-01-2021,Mid level,Full-time,Data Engineer,112000,USD,"1,12,000",United States,100,United States,Large
+282,01-01-2021,Entry level,Full-time,Research Scientist,100000,USD,"1,00,000",Jersey,0,China,Large
+283,01-01-2021,Mid level,Part-time,Data Engineer,59000,EUR,"69,741",Netherlands,100,Netherlands,Large
+284,01-01-2021,Senior level,Contract,Staff Data Scientist,105000,USD,"1,05,000",United States,100,United States,Medium
+285,01-01-2021,Mid level,Full-time,Research Scientist,69999,USD,"69,999",Czech Republic,50,Czech Republic,Large
+286,01-01-2021,Senior level,Full-time,Data Science Manager,7000000,INR,"94,665",India,50,India,Large
+287,01-01-2021,Senior level,Full-time,Head of Data,87000,EUR,"1,02,839",Slovenia,100,Slovenia,Large
+288,01-01-2021,Mid level,Full-time,Data Scientist,109000,USD,"1,09,000",United States,50,United States,Large
+289,01-01-2021,Mid level,Full-time,ML Engineer,43200,EUR,"51,064",Italy,50,Italy,Large
+290,01-01-2022,Senior level,Full-time,Data Engineer,135000,USD,"1,35,000",United States,100,United States,Medium
+291,01-01-2022,Senior level,Full-time,Data Analyst,155000,USD,"1,55,000",United States,100,United States,Medium
+292,01-01-2022,Senior level,Full-time,Data Analyst,120600,USD,"1,20,600",United States,100,United States,Medium
+293,01-01-2022,Mid level,Full-time,Data Scientist,130000,USD,"1,30,000",United States,0,United States,Medium
+294,01-01-2022,Mid level,Full-time,Data Scientist,90000,USD,"90,000",United States,0,United States,Medium
+295,01-01-2022,Mid level,Full-time,Data Engineer,170000,USD,"1,70,000",United States,100,United States,Medium
+296,01-01-2022,Mid level,Full-time,Data Engineer,150000,USD,"1,50,000",United States,100,United States,Medium
+297,01-01-2022,Senior level,Full-time,Data Analyst,102100,USD,"1,02,100",United States,100,United States,Medium
+298,01-01-2022,Senior level,Full-time,Data Analyst,84900,USD,"84,900",United States,100,United States,Medium
+299,01-01-2022,Senior level,Full-time,Data Scientist,136620,USD,"1,36,620",United States,100,United States,Medium
+300,01-01-2022,Senior level,Full-time,Data Scientist,99360,USD,"99,360",United States,100,United States,Medium
+301,01-01-2022,Senior level,Full-time,Data Scientist,90000,GBP,"1,17,789",United Kingdom,0,United Kingdom,Medium
+302,01-01-2022,Senior level,Full-time,Data Scientist,80000,GBP,"1,04,702",United Kingdom,0,United Kingdom,Medium
+303,01-01-2022,Senior level,Full-time,Data Scientist,146000,USD,"1,46,000",United States,100,United States,Medium
+304,01-01-2022,Senior level,Full-time,Data Scientist,123000,USD,"1,23,000",United States,100,United States,Medium
+305,01-01-2022,Entry level,Full-time,Data Engineer,40000,GBP,"52,351",United Kingdom,100,United Kingdom,Medium
+306,01-01-2022,Senior level,Full-time,Data Analyst,99000,USD,"99,000",United States,0,United States,Medium
+307,01-01-2022,Senior level,Full-time,Data Analyst,116000,USD,"1,16,000",United States,0,United States,Medium
+308,01-01-2022,Mid level,Full-time,Data Analyst,106260,USD,"1,06,260",United States,0,United States,Medium
+309,01-01-2022,Mid level,Full-time,Data Analyst,126500,USD,"1,26,500",United States,0,United States,Medium
+310,01-01-2022,Executive level,Full-time,Data Engineer,242000,USD,"2,42,000",United States,100,United States,Medium
+311,01-01-2022,Executive level,Full-time,Data Engineer,200000,USD,"2,00,000",United States,100,United States,Medium
+312,01-01-2022,Mid level,Full-time,Data Scientist,50000,GBP,"65,438",United Kingdom,0,United Kingdom,Medium
+313,01-01-2022,Mid level,Full-time,Data Scientist,30000,GBP,"39,263",United Kingdom,0,United Kingdom,Medium
+314,01-01-2022,Mid level,Full-time,Data Engineer,60000,GBP,"78,526",United Kingdom,0,United Kingdom,Medium
+315,01-01-2022,Mid level,Full-time,Data Engineer,40000,GBP,"52,351",United Kingdom,0,United Kingdom,Medium
+316,01-01-2022,Senior level,Full-time,Data Scientist,165220,USD,"1,65,220",United States,100,United States,Medium
+317,01-01-2022,Entry level,Full-time,Data Engineer,35000,GBP,"45,807",United Kingdom,100,United Kingdom,Medium
+318,01-01-2022,Senior level,Full-time,Data Scientist,120160,USD,"1,20,160",United States,100,United States,Medium
+319,01-01-2022,Senior level,Full-time,Data Analyst,90320,USD,"90,320",United States,100,United States,Medium
+320,01-01-2022,Senior level,Full-time,Data Engineer,181940,USD,"1,81,940",United States,0,United States,Medium
+321,01-01-2022,Senior level,Full-time,Data Engineer,132320,USD,"1,32,320",United States,0,United States,Medium
+322,01-01-2022,Senior level,Full-time,Data Engineer,220110,USD,"2,20,110",United States,0,United States,Medium
+323,01-01-2022,Senior level,Full-time,Data Engineer,160080,USD,"1,60,080",United States,0,United States,Medium
+324,01-01-2022,Senior level,Full-time,Data Scientist,180000,USD,"1,80,000",United States,0,United States,Large
+325,01-01-2022,Senior level,Full-time,Data Scientist,120000,USD,"1,20,000",United States,0,United States,Large
+326,01-01-2022,Senior level,Full-time,Data Analyst,124190,USD,"1,24,190",United States,100,United States,Medium
+327,01-01-2022,Executive level,Full-time,Data Analyst,130000,USD,"1,30,000",United States,100,United States,Medium
+328,01-01-2022,Executive level,Full-time,Data Analyst,110000,USD,"1,10,000",United States,100,United States,Medium
+329,01-01-2022,Senior level,Full-time,Data Analyst,170000,USD,"1,70,000",United States,100,United States,Medium
+330,01-01-2022,Mid level,Full-time,Data Analyst,115500,USD,"1,15,500",United States,100,United States,Medium
+331,01-01-2022,Senior level,Full-time,Data Analyst,112900,USD,"1,12,900",United States,100,United States,Medium
+332,01-01-2022,Senior level,Full-time,Data Analyst,90320,USD,"90,320",United States,100,United States,Medium
+333,01-01-2022,Senior level,Full-time,Data Analyst,112900,USD,"1,12,900",United States,100,United States,Medium
+334,01-01-2022,Senior level,Full-time,Data Analyst,90320,USD,"90,320",United States,100,United States,Medium
+335,01-01-2022,Senior level,Full-time,Data Engineer,165400,USD,"1,65,400",United States,100,United States,Medium
+336,01-01-2022,Senior level,Full-time,Data Engineer,132320,USD,"1,32,320",United States,100,United States,Medium
+337,01-01-2022,Mid level,Full-time,Data Analyst,167000,USD,"1,67,000",United States,100,United States,Medium
+338,01-01-2022,Senior level,Full-time,Data Engineer,243900,USD,"2,43,900",United States,100,United States,Medium
+339,01-01-2022,Senior level,Full-time,Data Analyst,136600,USD,"1,36,600",United States,100,United States,Medium
+340,01-01-2022,Senior level,Full-time,Data Analyst,109280,USD,"1,09,280",United States,100,United States,Medium
+341,01-01-2022,Senior level,Full-time,Data Engineer,128875,USD,"1,28,875",United States,100,United States,Medium
+342,01-01-2022,Senior level,Full-time,Data Engineer,93700,USD,"93,700",United States,100,United States,Medium
+343,01-01-2022,Executive level,Full-time,Head of Data Science,224000,USD,"2,24,000",United States,100,United States,Medium
+344,01-01-2022,Executive level,Full-time,Head of Data Science,167875,USD,"1,67,875",United States,100,United States,Medium
+345,01-01-2022,Executive level,Full-time,Analytics Engineer,175000,USD,"1,75,000",United States,100,United States,Medium
+346,01-01-2022,Senior level,Full-time,Data Engineer,156600,USD,"1,56,600",United States,100,United States,Medium
+347,01-01-2022,Senior level,Full-time,Data Engineer,108800,USD,"1,08,800",United States,0,United States,Medium
+348,01-01-2022,Senior level,Full-time,Data Scientist,95550,USD,"95,550",United States,0,United States,Medium
+349,01-01-2022,Senior level,Full-time,Data Engineer,113000,USD,"1,13,000",United States,0,United States,Large
+350,01-01-2022,Senior level,Full-time,Data Analyst,135000,USD,"1,35,000",United States,100,United States,Medium
+351,01-01-2022,Senior level,Full-time,Data Science Manager,161342,USD,"1,61,342",United States,100,United States,Medium
+352,01-01-2022,Senior level,Full-time,Data Science Manager,137141,USD,"1,37,141",United States,100,United States,Medium
+353,01-01-2022,Senior level,Full-time,Data Scientist,167000,USD,"1,67,000",United States,100,United States,Medium
+354,01-01-2022,Senior level,Full-time,Data Scientist,123000,USD,"1,23,000",United States,100,United States,Medium
+355,01-01-2022,Senior level,Full-time,Data Engineer,60000,GBP,"78,526",United Kingdom,0,United Kingdom,Medium
+356,01-01-2022,Senior level,Full-time,Data Engineer,50000,GBP,"65,438",United Kingdom,0,United Kingdom,Medium
+357,01-01-2022,Senior level,Full-time,Data Scientist,150000,USD,"1,50,000",United States,0,United States,Medium
+358,01-01-2022,Senior level,Full-time,Data Scientist,211500,USD,"2,11,500",United States,100,United States,Medium
+359,01-01-2022,Senior level,Full-time,Data Architect,192400,USD,"1,92,400",Canada,100,Canada,Medium
+360,01-01-2022,Senior level,Full-time,Data Architect,90700,USD,"90,700",Canada,100,Canada,Medium
+361,01-01-2022,Senior level,Full-time,Data Analyst,130000,USD,"1,30,000",Canada,100,Canada,Medium
+362,01-01-2022,Senior level,Full-time,Data Analyst,61300,USD,"61,300",Canada,100,Canada,Medium
+363,01-01-2022,Senior level,Full-time,Data Analyst,130000,USD,"1,30,000",Canada,100,Canada,Medium
+364,01-01-2022,Senior level,Full-time,Data Analyst,61300,USD,"61,300",Canada,100,Canada,Medium
+365,01-01-2022,Senior level,Full-time,Data Engineer,160000,USD,"1,60,000",United States,0,United States,Large
+366,01-01-2022,Senior level,Full-time,Data Scientist,138600,USD,"1,38,600",United States,100,United States,Medium
+367,01-01-2022,Senior level,Full-time,Data Engineer,136000,USD,"1,36,000",United States,0,United States,Medium
+368,01-01-2022,Mid level,Full-time,Data Analyst,58000,USD,"58,000",United States,0,United States,Small
+369,01-01-2022,Executive level,Full-time,Analytics Engineer,135000,USD,"1,35,000",United States,100,United States,Medium
+370,01-01-2022,Senior level,Full-time,Data Scientist,170000,USD,"1,70,000",United States,100,United States,Medium
+371,01-01-2022,Senior level,Full-time,Data Scientist,123000,USD,"1,23,000",United States,100,United States,Medium
+372,01-01-2022,Senior level,Full-time,ML Engineer,189650,USD,"1,89,650",United States,0,United States,Medium
+373,01-01-2022,Senior level,Full-time,ML Engineer,164996,USD,"1,64,996",United States,0,United States,Medium
+374,01-01-2022,Mid level,Full-time,ETL Developer,50000,EUR,"54,957",Greece,0,Greece,Medium
+375,01-01-2022,Mid level,Full-time,ETL Developer,50000,EUR,"54,957",Greece,0,Greece,Medium
+376,01-01-2022,Executive level,Full-time,Lead Data Engineer,150000,CAD,"1,18,187",Canada,100,Canada,Small
+377,01-01-2022,Senior level,Full-time,Data Analyst,132000,USD,"1,32,000",United States,0,United States,Medium
+378,01-01-2022,Senior level,Full-time,Data Engineer,165400,USD,"1,65,400",United States,100,United States,Medium
+379,01-01-2022,Senior level,Full-time,Data Architect,208775,USD,"2,08,775",United States,100,United States,Medium
+380,01-01-2022,Senior level,Full-time,Data Architect,147800,USD,"1,47,800",United States,100,United States,Medium
+381,01-01-2022,Senior level,Full-time,Data Engineer,136994,USD,"1,36,994",United States,100,United States,Medium
+382,01-01-2022,Senior level,Full-time,Data Engineer,101570,USD,"1,01,570",United States,100,United States,Medium
+383,01-01-2022,Senior level,Full-time,Data Analyst,128875,USD,"1,28,875",United States,100,United States,Medium
+384,01-01-2022,Senior level,Full-time,Data Analyst,93700,USD,"93,700",United States,100,United States,Medium
+385,01-01-2022,Executive level,Full-time,Head of Machine Learning,6000000,INR,"79,039",India,50,India,Large
+386,01-01-2022,Senior level,Full-time,Data Engineer,132320,USD,"1,32,320",United States,100,United States,Medium
+387,01-01-2022,Entry level,Full-time,ML Engineer,28500,GBP,"37,300",United Kingdom,100,United Kingdom,Large
+388,01-01-2022,Senior level,Full-time,Data Analyst,164000,USD,"1,64,000",United States,0,United States,Medium
+389,01-01-2022,Senior level,Full-time,Data Engineer,155000,USD,"1,55,000",United States,100,United States,Medium
+390,01-01-2022,Mid level,Full-time,ML Engineer,95000,GBP,"1,24,333",United Kingdom,0,United Kingdom,Medium
+391,01-01-2022,Mid level,Full-time,ML Engineer,75000,GBP,"98,158",United Kingdom,0,United Kingdom,Medium
+392,01-01-2022,Mid level,Full-time,AI Scientist,120000,USD,"1,20,000",United States,0,United States,Medium
+393,01-01-2022,Senior level,Full-time,Data Analyst,112900,USD,"1,12,900",United States,100,United States,Medium
+394,01-01-2022,Senior level,Full-time,Data Analyst,90320,USD,"90,320",United States,100,United States,Medium
+395,01-01-2022,Senior level,Full-time,Data Analytics Manager,145000,USD,"1,45,000",United States,100,United States,Medium
+396,01-01-2022,Senior level,Full-time,Data Analytics Manager,105400,USD,"1,05,400",United States,100,United States,Medium
+397,01-01-2022,Mid level,Full-time,ML Engineer,80000,EUR,"87,932",France,100,Germany,Medium
+398,01-01-2022,Mid level,Full-time,Data Engineer,90000,GBP,"1,17,789",United Kingdom,0,United Kingdom,Medium
+399,01-01-2022,Senior level,Full-time,Data Scientist,215300,USD,"2,15,300",United States,100,United States,Large
+400,01-01-2022,Senior level,Full-time,Data Scientist,158200,USD,"1,58,200",United States,100,United States,Large
+401,01-01-2022,Senior level,Full-time,Data Engineer,209100,USD,"2,09,100",United States,100,United States,Large
+402,01-01-2022,Senior level,Full-time,Data Engineer,154600,USD,"1,54,600",United States,100,United States,Large
+403,01-01-2022,Senior level,Full-time,Data Analyst,115934,USD,"1,15,934",United States,0,United States,Medium
+404,01-01-2022,Senior level,Full-time,Data Analyst,81666,USD,"81,666",United States,0,United States,Medium
+405,01-01-2022,Senior level,Full-time,Data Engineer,175000,USD,"1,75,000",United States,100,United States,Medium
+406,01-01-2022,Mid level,Full-time,Data Engineer,75000,GBP,"98,158",United Kingdom,0,United Kingdom,Medium
+407,01-01-2022,Mid level,Full-time,Data Analyst,58000,USD,"58,000",United States,0,United States,Small
+408,01-01-2022,Senior level,Full-time,Data Engineer,183600,USD,"1,83,600",United States,100,United States,Large
+409,01-01-2022,Mid level,Full-time,Data Analyst,40000,GBP,"52,351",United Kingdom,100,United Kingdom,Medium
+410,01-01-2022,Senior level,Full-time,Data Scientist,180000,USD,"1,80,000",United States,100,United States,Medium
+411,01-01-2022,Mid level,Full-time,Data Scientist,55000,GBP,"71,982",United Kingdom,0,United Kingdom,Medium
+412,01-01-2022,Mid level,Full-time,Data Scientist,35000,GBP,"45,807",United Kingdom,0,United Kingdom,Medium
+413,01-01-2022,Mid level,Full-time,Data Engineer,60000,EUR,"65,949",Greece,100,Greece,Medium
+414,01-01-2022,Mid level,Full-time,Data Engineer,45000,EUR,"49,461",Greece,100,Greece,Medium
+415,01-01-2022,Mid level,Full-time,Data Engineer,60000,GBP,"78,526",United Kingdom,100,United Kingdom,Medium
+416,01-01-2022,Mid level,Full-time,Data Engineer,45000,GBP,"58,894",United Kingdom,100,United Kingdom,Medium
+417,01-01-2022,Senior level,Full-time,Data Scientist,260000,USD,"2,60,000",United States,100,United States,Medium
+418,01-01-2022,Senior level,Full-time,Data Science Engineer,60000,USD,"60,000",Argentina,100,Mexico,Large
+419,01-01-2022,Mid level,Full-time,Data Engineer,63900,USD,"63,900",United States,0,United States,Medium
+420,01-01-2022,Mid level,Full-time,Machine Learning Scientist,160000,USD,"1,60,000",United States,100,United States,Large
+421,01-01-2022,Mid level,Full-time,Machine Learning Scientist,112300,USD,"1,12,300",United States,100,United States,Large
+422,01-01-2022,Mid level,Full-time,Data Science Manager,241000,USD,"2,41,000",United States,100,United States,Medium
+423,01-01-2022,Mid level,Full-time,Data Science Manager,159000,USD,"1,59,000",United States,100,United States,Medium
+424,01-01-2022,Senior level,Full-time,Data Scientist,180000,USD,"1,80,000",United States,0,United States,Medium
+425,01-01-2022,Senior level,Full-time,Data Scientist,80000,USD,"80,000",United States,0,United States,Medium
+426,01-01-2022,Mid level,Full-time,Data Engineer,82900,USD,"82,900",United States,0,United States,Medium
+427,01-01-2022,Senior level,Full-time,Data Engineer,100800,USD,"1,00,800",United States,100,United States,Large
+428,01-01-2022,Mid level,Full-time,Data Engineer,45000,EUR,"49,461",Spain,100,Spain,Medium
+429,01-01-2022,Senior level,Full-time,Data Scientist,140400,USD,"1,40,400",United States,0,United States,Large
+430,01-01-2022,Mid level,Full-time,Data Analyst,30000,GBP,"39,263",United Kingdom,100,United Kingdom,Medium
+431,01-01-2022,Mid level,Full-time,Data Analyst,40000,EUR,"43,966",Spain,100,Spain,Medium
+432,01-01-2022,Mid level,Full-time,Data Analyst,30000,EUR,"32,974",Spain,100,Spain,Medium
+433,01-01-2022,Mid level,Full-time,Data Engineer,80000,EUR,"87,932",Spain,100,Spain,Medium
+434,01-01-2022,Mid level,Full-time,Data Engineer,70000,EUR,"76,940",Spain,100,Spain,Medium
+435,01-01-2022,Mid level,Full-time,Data Engineer,80000,GBP,"1,04,702",United Kingdom,100,United Kingdom,Medium
+436,01-01-2022,Mid level,Full-time,Data Engineer,70000,GBP,"91,614",United Kingdom,100,United Kingdom,Medium
+437,01-01-2022,Mid level,Full-time,Data Engineer,60000,EUR,"65,949",Spain,100,Spain,Medium
+438,01-01-2022,Mid level,Full-time,Data Engineer,80000,EUR,"87,932",Greece,100,Greece,Medium
+439,01-01-2022,Senior level,Full-time,ML Engineer,189650,USD,"1,89,650",United States,0,United States,Medium
+440,01-01-2022,Senior level,Full-time,ML Engineer,164996,USD,"1,64,996",United States,0,United States,Medium
+441,01-01-2022,Mid level,Full-time,Data Analyst,40000,EUR,"43,966",Greece,100,Greece,Medium
+442,01-01-2022,Mid level,Full-time,Data Analyst,30000,EUR,"32,974",Greece,100,Greece,Medium
+443,01-01-2022,Mid level,Full-time,Data Engineer,75000,GBP,"98,158",United Kingdom,100,United Kingdom,Medium
+444,01-01-2022,Mid level,Full-time,Data Engineer,60000,GBP,"78,526",United Kingdom,100,United Kingdom,Medium
+445,01-01-2022,Senior level,Full-time,Data Scientist,215300,USD,"2,15,300",United States,0,United States,Large
+446,01-01-2022,Mid level,Full-time,Data Engineer,70000,EUR,"76,940",Greece,100,Greece,Medium
+447,01-01-2022,Senior level,Full-time,Data Engineer,209100,USD,"2,09,100",United States,100,United States,Large
+448,01-01-2022,Senior level,Full-time,Data Engineer,154600,USD,"1,54,600",United States,100,United States,Large
+449,01-01-2022,Senior level,Full-time,Data Engineer,180000,USD,"1,80,000",United States,100,United States,Medium
+450,01-01-2022,Entry level,Full-time,ML Engineer,20000,EUR,"21,983",Portugal,100,Portugal,Large
+451,01-01-2022,Senior level,Full-time,Data Engineer,80000,USD,"80,000",United States,100,United States,Medium
+452,01-01-2022,Mid level,Full-time,Machine Learning Developer,100000,CAD,"78,791",Canada,100,Canada,Medium
+453,01-01-2022,Executive level,Full-time,Director of Data Science,250000,CAD,"1,96,979",Canada,50,Canada,Large
+454,01-01-2022,Mid level,Full-time,ML Engineer,120000,USD,"1,20,000",United States,100,United States,Small
+455,01-01-2022,Entry level,Full-time,Computer Vision Engineer,125000,USD,"1,25,000",United States,0,United States,Medium
+456,01-01-2022,Mid level,Full-time,NLP Engineer,240000,CNY,"37,236",United States,50,United States,Large
+457,01-01-2022,Senior level,Full-time,Data Engineer,105000,USD,"1,05,000",United States,100,United States,Medium
+458,01-01-2022,Senior level,Full-time,Lead Machine Learning Engineer,80000,EUR,"87,932",Germany,0,Germany,Medium
+459,01-01-2022,Mid level,Full-time,Business Data Analyst,1400000,INR,"18,442",India,100,India,Medium
+460,01-01-2022,Mid level,Full-time,Data Scientist,2400000,INR,"31,615",India,100,India,Large
+461,01-01-2022,Mid level,Full-time,Machine Learning Infrastructure Engineer,53000,EUR,"58,255",Portugal,50,Portugal,Large
+462,01-01-2022,Entry level,Full-time,Financial Data Analyst,100000,USD,"1,00,000",United States,50,United States,Large
+463,01-01-2022,Mid level,Part-time,Data Engineer,50000,EUR,"54,957",Germany,50,Germany,Large
+464,01-01-2022,Entry level,Full-time,Data Scientist,1400000,INR,"18,442",India,100,India,Medium
+465,01-01-2022,Senior level,Full-time,Principal Data Scientist,148000,EUR,"1,62,674",Germany,100,Germany,Medium
+466,01-01-2022,Entry level,Full-time,Data Engineer,120000,USD,"1,20,000",United States,100,United States,Medium
+467,01-01-2022,Senior level,Full-time,Research Scientist,144000,USD,"1,44,000",United States,50,United States,Large
+468,01-01-2022,Senior level,Full-time,Data Scientist,104890,USD,"1,04,890",United States,100,United States,Medium
+469,01-01-2022,Senior level,Full-time,Data Engineer,100000,USD,"1,00,000",United States,100,United States,Medium
+470,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+471,01-01-2022,Mid level,Full-time,Data Analyst,135000,USD,"1,35,000",United States,100,United States,Medium
+472,01-01-2022,Mid level,Full-time,Data Analyst,50000,USD,"50,000",United States,100,United States,Medium
+473,01-01-2022,Senior level,Full-time,Data Scientist,220000,USD,"2,20,000",United States,100,United States,Medium
+474,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+475,01-01-2022,Mid level,Full-time,Data Scientist,140000,GBP,"1,83,228",United Kingdom,0,United Kingdom,Medium
+476,01-01-2022,Mid level,Full-time,Data Scientist,70000,GBP,"91,614",United Kingdom,0,United Kingdom,Medium
+477,01-01-2022,Senior level,Full-time,Data Scientist,185100,USD,"1,85,100",United States,100,United States,Medium
+478,01-01-2022,Senior level,Full-time,ML Engineer,220000,USD,"2,20,000",United States,100,United States,Medium
+479,01-01-2022,Mid level,Full-time,Data Scientist,200000,USD,"2,00,000",United States,100,United States,Medium
+480,01-01-2022,Mid level,Full-time,Data Scientist,120000,USD,"1,20,000",United States,100,United States,Medium
+481,01-01-2022,Senior level,Full-time,ML Engineer,120000,USD,"1,20,000",UAE,100,UAE,Small
+482,01-01-2022,Senior level,Full-time,ML Engineer,65000,USD,"65,000",UAE,100,UAE,Small
+483,01-01-2022,Executive level,Full-time,Data Engineer,324000,USD,"3,24,000",United States,100,United States,Medium
+484,01-01-2022,Executive level,Full-time,Data Engineer,216000,USD,"2,16,000",United States,100,United States,Medium
+485,01-01-2022,Senior level,Full-time,Data Engineer,210000,USD,"2,10,000",United States,100,United States,Medium
+486,01-01-2022,Senior level,Full-time,ML Engineer,120000,USD,"1,20,000",United States,100,United States,Medium
+487,01-01-2022,Senior level,Full-time,Data Scientist,230000,USD,"2,30,000",United States,100,United States,Medium
+488,01-01-2022,Entry level,Part-time,Data Scientist,100000,USD,"1,00,000",Algeria,50,Algeria,Medium
+489,01-01-2022,Mid level,Freelance,Data Scientist,100000,USD,"1,00,000",Canada,100,United States,Medium
+490,01-01-2022,Entry level,Contract,Applied Machine Learning Scientist,29000,EUR,"31,875",Tunisia,100,Czech Republic,Medium
+491,01-01-2022,Senior level,Full-time,Head of Data,200000,USD,"2,00,000",Malaysia,100,United States,Medium
+492,01-01-2022,Mid level,Full-time,Principal Data Analyst,75000,USD,"75,000",Canada,100,Canada,Small
+493,01-01-2022,Mid level,Full-time,Data Scientist,150000,PLN,"35,590",Poland,100,Poland,Large
+494,01-01-2022,Senior level,Full-time,Machine Learning Developer,100000,CAD,"78,791",Canada,100,Canada,Medium
+495,01-01-2022,Senior level,Full-time,Data Scientist,100000,USD,"1,00,000",Brazil,100,United States,Medium
+496,01-01-2022,Mid level,Full-time,Machine Learning Scientist,153000,USD,"1,53,000",United States,50,United States,Medium
+497,01-01-2022,Entry level,Full-time,Data Engineer,52800,EUR,"58,035",Pakistan,100,Germany,Medium
+498,01-01-2022,Senior level,Full-time,Data Scientist,165000,USD,"1,65,000",United States,100,United States,Medium
+499,01-01-2022,Senior level,Full-time,Research Scientist,85000,EUR,"93,427",France,50,France,Large
+500,01-01-2022,Entry level,Full-time,Data Scientist,66500,CAD,"52,396",Canada,100,Canada,Large
+501,01-01-2022,Senior level,Full-time,ML Engineer,57000,EUR,"62,651",Netherlands,100,Netherlands,Large
+502,01-01-2022,Mid level,Full-time,Head of Data,30000,EUR,"32,974",Estonia,100,Estonia,Small
+503,01-01-2022,Entry level,Full-time,Data Scientist,40000,USD,"40,000",Japan,100,Malaysia,Large
+504,01-01-2022,Mid level,Full-time,ML Engineer,121000,AUD,"87,425",Australia,100,Australia,Large
+505,01-01-2022,Senior level,Full-time,Data Engineer,115000,USD,"1,15,000",United States,100,United States,Medium
+506,01-01-2022,Entry level,Full-time,Data Scientist,120000,AUD,"86,703",Australia,50,Australia,Medium
+507,01-01-2022,Mid level,Full-time,Applied Machine Learning Scientist,75000,USD,"75,000",Bolivia,100,United States,Large
+508,01-01-2022,Mid level,Full-time,Research Scientist,59000,EUR,"64,849",Austria,0,Austria,Large
+509,01-01-2022,Entry level,Full-time,Research Scientist,120000,USD,"1,20,000",United States,100,United States,Large
+510,01-01-2022,Mid level,Full-time,Applied Data Scientist,157000,USD,"1,57,000",United States,100,United States,Large
+511,01-01-2022,Entry level,Full-time,Computer Vision Software Engineer,150000,USD,"1,50,000",Australia,100,Australia,Small
+512,01-01-2022,Mid level,Full-time,Business Data Analyst,90000,CAD,"70,912",Canada,50,Canada,Large
+513,01-01-2022,Entry level,Full-time,Data Engineer,65000,USD,"65,000",United States,100,United States,Small
+514,01-01-2022,Senior level,Full-time,ML Engineer,65000,EUR,"71,444",Ireland,100,Ireland,Small
+515,01-01-2022,Entry level,Full-time,Data Analytics Engineer,20000,USD,"20,000",Pakistan,0,Pakistan,Medium
+516,01-01-2022,Mid level,Full-time,Data Scientist,48000,USD,"48,000",Russia,100,United States,Small
+517,01-01-2022,Senior level,Full-time,Data Science Manager,152500,USD,"1,52,500",United States,100,United States,Medium
+518,01-01-2022,Mid level,Full-time,Data Engineer,62000,EUR,"68,147",France,100,France,Medium
+519,01-01-2022,Mid level,Full-time,Data Scientist,115000,CHF,"1,22,346",Switzerland,0,Switzerland,Large
+520,01-01-2022,Senior level,Full-time,Applied Data Scientist,380000,USD,"3,80,000",United States,100,United States,Large
+521,01-01-2022,Mid level,Full-time,Data Scientist,88000,CAD,"69,336",Canada,100,Canada,Medium
+522,01-01-2022,Entry level,Full-time,Computer Vision Engineer,10000,USD,"10,000",Portugal,100,Luxembourg,Medium
+523,01-01-2022,Mid level,Full-time,Data Analyst,20000,USD,"20,000",Greece,100,Greece,Small
+524,01-01-2022,Senior level,Full-time,Data Analytics Lead,405000,USD,"4,05,000",United States,100,United States,Large
+525,01-01-2022,Mid level,Full-time,Data Scientist,135000,USD,"1,35,000",United States,100,United States,Large
+526,01-01-2022,Senior level,Full-time,Applied Data Scientist,177000,USD,"1,77,000",United States,100,United States,Large
+527,01-01-2022,Mid level,Full-time,Data Scientist,78000,USD,"78,000",United States,100,United States,Medium
+528,01-01-2022,Senior level,Full-time,Data Analyst,135000,USD,"1,35,000",United States,100,United States,Medium
+529,01-01-2022,Senior level,Full-time,Data Analyst,100000,USD,"1,00,000",United States,100,United States,Medium
+530,01-01-2022,Senior level,Full-time,Data Analyst,90320,USD,"90,320",United States,100,United States,Medium
+531,01-01-2022,Mid level,Full-time,Data Analyst,85000,USD,"85,000",Canada,0,Canada,Medium
+532,01-01-2022,Mid level,Full-time,Data Analyst,75000,USD,"75,000",Canada,0,Canada,Medium
+533,01-01-2022,Senior level,Full-time,ML Engineer,214000,USD,"2,14,000",United States,100,United States,Medium
+534,01-01-2022,Senior level,Full-time,ML Engineer,192600,USD,"1,92,600",United States,100,United States,Medium
+535,01-01-2022,Senior level,Full-time,Data Architect,266400,USD,"2,66,400",United States,100,United States,Medium
+536,01-01-2022,Senior level,Full-time,Data Architect,213120,USD,"2,13,120",United States,100,United States,Medium
+537,01-01-2022,Senior level,Full-time,Data Analyst,112900,USD,"1,12,900",United States,100,United States,Medium
+538,01-01-2022,Senior level,Full-time,Data Engineer,155000,USD,"1,55,000",United States,100,United States,Medium
+539,01-01-2022,Mid level,Full-time,Data Scientist,141300,USD,"1,41,300",United States,0,United States,Medium
+540,01-01-2022,Mid level,Full-time,Data Scientist,102100,USD,"1,02,100",United States,0,United States,Medium
+541,01-01-2022,Senior level,Full-time,Data Analyst,115934,USD,"1,15,934",United States,100,United States,Medium
+542,01-01-2022,Senior level,Full-time,Data Analyst,81666,USD,"81,666",United States,100,United States,Medium
+543,01-01-2022,Mid level,Full-time,Data Engineer,206699,USD,"2,06,699",United States,0,United States,Medium
+544,01-01-2022,Mid level,Full-time,Data Engineer,99100,USD,"99,100",United States,0,United States,Medium
+545,01-01-2022,Senior level,Full-time,Data Engineer,130000,USD,"1,30,000",United States,100,United States,Medium
+546,01-01-2022,Senior level,Full-time,Data Engineer,115000,USD,"1,15,000",United States,100,United States,Medium
+547,01-01-2022,Senior level,Full-time,Data Engineer,110500,USD,"1,10,500",United States,100,United States,Medium
+548,01-01-2022,Senior level,Full-time,Data Engineer,130000,USD,"1,30,000",United States,100,United States,Medium
+549,01-01-2022,Senior level,Full-time,Data Analyst,99050,USD,"99,050",United States,100,United States,Medium
+550,01-01-2022,Senior level,Full-time,Data Engineer,160000,USD,"1,60,000",United States,100,United States,Medium
+551,01-01-2022,Senior level,Full-time,Data Scientist,205300,USD,"2,05,300",United States,0,United States,Large
+552,01-01-2022,Senior level,Full-time,Data Scientist,140400,USD,"1,40,400",United States,0,United States,Large
+553,01-01-2022,Senior level,Full-time,Data Scientist,176000,USD,"1,76,000",United States,100,United States,Medium
+554,01-01-2022,Senior level,Full-time,Data Scientist,144000,USD,"1,44,000",United States,100,United States,Medium
+555,01-01-2022,Senior level,Full-time,Data Engineer,200100,USD,"2,00,100",United States,100,United States,Medium
+556,01-01-2022,Senior level,Full-time,Data Engineer,160000,USD,"1,60,000",United States,100,United States,Medium
+557,01-01-2022,Senior level,Full-time,Data Engineer,145000,USD,"1,45,000",United States,100,United States,Medium
+558,01-01-2022,Senior level,Full-time,Data Engineer,70500,USD,"70,500",United States,0,United States,Medium
+559,01-01-2022,Senior level,Full-time,Data Scientist,205300,USD,"2,05,300",United States,0,United States,Medium
+560,01-01-2022,Senior level,Full-time,Data Scientist,140400,USD,"1,40,400",United States,0,United States,Medium
+561,01-01-2022,Senior level,Full-time,Analytics Engineer,205300,USD,"2,05,300",United States,0,United States,Medium
+562,01-01-2022,Senior level,Full-time,Analytics Engineer,184700,USD,"1,84,700",United States,0,United States,Medium
+563,01-01-2022,Senior level,Full-time,Data Engineer,175100,USD,"1,75,100",United States,100,United States,Medium
+564,01-01-2022,Senior level,Full-time,Data Engineer,140250,USD,"1,40,250",United States,100,United States,Medium
+565,01-01-2022,Senior level,Full-time,Data Analyst,116150,USD,"1,16,150",United States,100,United States,Medium
+566,01-01-2022,Senior level,Full-time,Data Engineer,54000,USD,"54,000",United States,0,United States,Medium
+567,01-01-2022,Senior level,Full-time,Data Analyst,170000,USD,"1,70,000",United States,100,United States,Medium
+568,01-01-2022,Mid level,Full-time,Data Analyst,50000,GBP,"65,438",United Kingdom,0,United Kingdom,Medium
+569,01-01-2022,Senior level,Full-time,Data Analyst,80000,USD,"80,000",United States,100,United States,Medium
+570,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+571,01-01-2022,Senior level,Full-time,Data Scientist,210000,USD,"2,10,000",United States,100,United States,Medium
+572,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+573,01-01-2022,Senior level,Full-time,Data Analyst,100000,USD,"1,00,000",United States,100,United States,Medium
+574,01-01-2022,Senior level,Full-time,Data Analyst,69000,USD,"69,000",United States,100,United States,Medium
+575,01-01-2022,Senior level,Full-time,Data Scientist,210000,USD,"2,10,000",United States,100,United States,Medium
+576,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+577,01-01-2022,Senior level,Full-time,Data Scientist,210000,USD,"2,10,000",United States,100,United States,Medium
+578,01-01-2022,Senior level,Full-time,Data Analyst,150075,USD,"1,50,075",United States,100,United States,Medium
+579,01-01-2022,Senior level,Full-time,Data Engineer,100000,USD,"1,00,000",United States,100,United States,Medium
+580,01-01-2022,Senior level,Full-time,Data Engineer,25000,USD,"25,000",United States,100,United States,Medium
+581,01-01-2022,Senior level,Full-time,Data Analyst,126500,USD,"1,26,500",United States,100,United States,Medium
+582,01-01-2022,Senior level,Full-time,Data Analyst,106260,USD,"1,06,260",United States,100,United States,Medium
+583,01-01-2022,Senior level,Full-time,Data Engineer,220110,USD,"2,20,110",United States,100,United States,Medium
+584,01-01-2022,Senior level,Full-time,Data Engineer,160080,USD,"1,60,080",United States,100,United States,Medium
+585,01-01-2022,Senior level,Full-time,Data Analyst,105000,USD,"1,05,000",United States,100,United States,Medium
+586,01-01-2022,Senior level,Full-time,Data Analyst,110925,USD,"1,10,925",United States,100,United States,Medium
+587,01-01-2022,Mid level,Full-time,Data Analyst,35000,GBP,"45,807",United Kingdom,0,United Kingdom,Medium
+588,01-01-2022,Senior level,Full-time,Data Scientist,140000,USD,"1,40,000",United States,100,United States,Medium
+589,01-01-2022,Senior level,Full-time,Data Analyst,99000,USD,"99,000",United States,0,United States,Medium
+590,01-01-2022,Senior level,Full-time,Data Analyst,60000,USD,"60,000",United States,100,United States,Medium
+591,01-01-2022,Senior level,Full-time,Data Architect,192564,USD,"1,92,564",United States,100,United States,Medium
+592,01-01-2022,Senior level,Full-time,Data Architect,144854,USD,"1,44,854",United States,100,United States,Medium
+593,01-01-2022,Senior level,Full-time,Data Scientist,230000,USD,"2,30,000",United States,100,United States,Medium
+594,01-01-2022,Senior level,Full-time,Data Scientist,150000,USD,"1,50,000",United States,100,United States,Medium
+595,01-01-2022,Senior level,Full-time,Data Analytics Manager,150260,USD,"1,50,260",United States,100,United States,Medium
+596,01-01-2022,Senior level,Full-time,Data Analytics Manager,109280,USD,"1,09,280",United States,100,United States,Medium
+597,01-01-2022,Senior level,Full-time,Data Scientist,210000,USD,"2,10,000",United States,100,United States,Medium
+598,01-01-2022,Senior level,Full-time,Data Analyst,170000,USD,"1,70,000",United States,100,United States,Medium
+599,01-01-2022,Mid level,Full-time,Data Scientist,160000,USD,"1,60,000",United States,100,United States,Medium
+600,01-01-2022,Mid level,Full-time,Data Scientist,130000,USD,"1,30,000",United States,100,United States,Medium
+601,01-01-2022,Entry level,Full-time,Data Analyst,67000,USD,"67,000",Canada,0,Canada,Medium
+602,01-01-2022,Entry level,Full-time,Data Analyst,52000,USD,"52,000",Canada,0,Canada,Medium
+603,01-01-2022,Senior level,Full-time,Data Engineer,154000,USD,"1,54,000",United States,100,United States,Medium
+604,01-01-2022,Senior level,Full-time,Data Engineer,126000,USD,"1,26,000",United States,100,United States,Medium
+605,01-01-2022,Senior level,Full-time,Data Analyst,129000,USD,"1,29,000",United States,0,United States,Medium
+606,01-01-2022,Senior level,Full-time,Data Analyst,150000,USD,"1,50,000",United States,100,United States,Medium
+607,01-01-2022,Mid level,Full-time,AI Scientist,200000,USD,"2,00,000",India,100,United States,Large
